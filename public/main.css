@@ -30,7 +30,7 @@ p {
     .one-day-deal a:link, .one-day-deal a:visited {
         display: block;
         font-family: 'TradeGothicW01-BoldCn20_675334', 'Arial Narrow', Tahoma, Geneva, Arial, Sans-Serif;
-        font-size: 26px;
+        font-size: 1.625em;
         text-decoration: none;
         text-align: center;
         padding: 0.577em 2.885em;

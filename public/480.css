@@ -14,7 +14,7 @@ html {
 
 .one-day-deal img {
     width: 100%;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-bottom: 0px;
 }
 
@@ -30,6 +30,6 @@ html {
 
 .one-day-deal a:link, .one-day-deal a:visited {
     padding: 10px 100px;
-    width: 100%;
+    width: 90%;
 }
 

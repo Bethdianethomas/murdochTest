@@ -23,12 +23,13 @@ html {
 
 .productDescription{
     width: 100%;
-    /*margin-right: 5px;*/
+    margin-left: 5px;
 }
 
 .one-day-deal a:link, .one-day-deal a:visited {
-    width: 80%;
-    /*margin-left: 5px;*/
+    width: 100%;
+    max-width: 225px;
+    margin-left: 5px;
     font-size: 1.3em;
 }
 
@@ -37,6 +38,6 @@ html {
 }
 
 .one-day-deal h2 {
-    font-size: 1.620em;       
+    font-size: 1.610em;       
 }
 

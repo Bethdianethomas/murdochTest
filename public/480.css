@@ -28,9 +28,9 @@ html {
 }
 
 .one-day-deal a:link, .one-day-deal a:visited {
-    /*padding: 10px 80px;*/
     width: 90%;
     margin-left: 5px;
+    font-size: 1.5em;
 }
 
 .one-day-deal h2, .one-day-deal p {

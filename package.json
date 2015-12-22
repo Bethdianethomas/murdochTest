@@ -3,20 +3,10 @@
   "version": "1.0.0",
   "description": "murdochs test",
   "main": "server.js",
-  "dependencies": {},
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Bethdianethomas/murdochTest.git"
-  },
-  
   "dependencies": {
     "babel-loader": "^5.3.1",
     "blk": "^3.1.1",
+    "body-parser": "^1.14.2",
     "color": "^0.10.1",
     "colors.css": "^2.3.0",
     "css-loader": "^0.15.2",
@@ -35,6 +25,15 @@
     "style-loader": "^0.12.3",
     "webpack": "^1.10.1",
     "webpack-dev-server": "^1.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bethdianethomas/murdochTest.git"
   },
   "engines": {
     "node": "4.2.x"

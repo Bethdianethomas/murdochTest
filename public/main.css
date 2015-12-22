@@ -106,6 +106,7 @@
 
              #customPageWrap, #customPageHeader, #customPageHeader img {
                 width: 100%;
+                margin-right: 2px;
              }
              
               .one-day-deal {

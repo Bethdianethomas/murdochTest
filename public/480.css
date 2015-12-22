@@ -1,0 +1,33 @@
+html {
+    -webkit-text-size-adjust: none;
+}
+
+#customPageWrap, #customPageHeader, #customPageHeader img {
+    width: 100%;
+    max-width: 450px;
+}
+
+.one-day-deal {
+    flex-wrap: wrap;
+}
+
+.one-day-deal img {
+    width: 50%;
+    margin-left: 25px;
+    margin-bottom: 0px;
+}
+
+.one-day-deal p {
+    margin-bottom: 30px;
+}
+
+.productDescription{
+    width: 50%;
+    margin-left: 5px;
+}
+
+.one-day-deal a:link, .one-day-deal a:visited {
+    padding: 10px 100px;
+    width: 100%;
+}
+

@@ -28,8 +28,8 @@ html {
 }
 
 .one-day-deal a:link, .one-day-deal a:visited {
-    width: 90%;
-    margin-left: 5px;
+    width: 80%;
+    /*margin-left: 5px;*/
     font-size: 1.3em;
 }
 
@@ -38,6 +38,6 @@ html {
 }
 
 .one-day-deal h2 {
-    font-size: 1.6em;       
+    font-size: 1.620em;       
 }
 

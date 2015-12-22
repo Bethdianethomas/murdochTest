@@ -13,24 +13,25 @@ html {
 
 .one-day-deal img {
     width: 100%;
-    margin: 3.125em 0 3.750em 0.625em;
-    margin-bottom: 0;
+    margin-left: 0.625em;
+    margin: 50px 0px 60px 25px;
+    margin-bottom: 0px;
 }
 
 .productDescription{
     width: 100%;
-    margin-left: 0.313em;
+    margin-left: 5px;
 }
 
 .one-day-deal a:link, .one-day-deal a:visited {
     width: 100%;
-    max-width: 14.063em;
-    margin-left: 0.313em;
+    max-width: 225px;
+    margin-left: 5px;
     font-size: 1.3em;
 }
 
 .one-day-deal h2, .one-day-deal p {
-    margin-left: 0.313em;        
+    margin-left: 5px;        
 }
 
 .one-day-deal h2 {
@@ -38,6 +39,6 @@ html {
 }
 
 .one-day-deal p {
-    margin-bottom: 1.875em;
+    margin-bottom: 30px;
 }
 

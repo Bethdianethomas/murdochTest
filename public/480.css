@@ -23,7 +23,7 @@ html {
 
 .productDescription{
     width: 100%;
-    margin-left: -3px;
+    margin-left: 5px;
     /*margin-right: 5px;*/
 }
 
@@ -31,6 +31,6 @@ html {
     /*padding: 10px 80px;*/
     width: 90%;
     font-size: 1.000em;
-    margin-left: 5px;
+  /*  margin-left: 5px;*/
 }
 

@@ -34,10 +34,10 @@ p {
         text-decoration: none;
         text-align: center;
         padding: 0.577em 2.885em;
-        border-radius: 10px;
+        border-radius: 0.625em;
         color: #FDBC1A;
         background-color: #000;
-        max-width: 190px;
+        max-width: 11.875em;
     }
 
     .one-day-deal a:hover {
@@ -46,14 +46,14 @@ p {
     }
 
     .productDescription {
-        margin-left: 35px;
-        width: 350px;
+        margin-left: 2.188em;
+        width: 21.875em;
     }
 
 .cleft {
     clear: left;
-    width: 0px;
-    height: 0px;
+    width: 0;
+    height: 0;
 }
 
 

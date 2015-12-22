@@ -30,14 +30,14 @@ p {
     .one-day-deal a:link, .one-day-deal a:visited {
         display: block;
         font-family: 'TradeGothicW01-BoldCn20_675334', 'Arial Narrow', Tahoma, Geneva, Arial, Sans-Serif;
-        font-size: 1.625em;
+        font-size: 26px;
         text-decoration: none;
         text-align: center;
         padding: 0.577em 2.885em;
-        border-radius: 0.625em;
+        border-radius: 10px;
         color: #FDBC1A;
         background-color: #000;
-        max-width: 11.875em;
+        max-width: 190px;
     }
 
     .one-day-deal a:hover {
@@ -46,14 +46,14 @@ p {
     }
 
     .productDescription {
-        margin-left: 2.188em;
-        width: 21.875em;
+        margin-left: 35px;
+        width: 350px;
     }
 
 .cleft {
     clear: left;
-    width: 0;
-    height: 0;
+    width: 0px;
+    height: 0px;
 }
 
 

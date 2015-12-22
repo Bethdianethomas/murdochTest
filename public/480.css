@@ -4,7 +4,6 @@ html {
 
 #customPageWrap, #customPageHeader, #customPageHeader img {
     width: 100%;
-    max-width: 450px;
 }
 
 .one-day-deal {
@@ -13,7 +12,7 @@ html {
 
 .one-day-deal img {
     width: 50%;
-    margin-left: 25px;
+    margin-left: 5px;
     margin-bottom: 0px;
 }
 
@@ -23,7 +22,8 @@ html {
 
 .productDescription{
     width: 50%;
-    margin-left: 5px;
+    margin-left: 0;
+    margin-right: 5px;
 }
 
 .one-day-deal a:link, .one-day-deal a:visited {

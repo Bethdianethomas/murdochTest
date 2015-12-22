@@ -10,11 +10,12 @@ html {
 }
              
 .one-day-deal {
+    width: 100%;
     flex-wrap: wrap;
 }
 
 .one-day-deal img {
-    width: 50%;
+    width: 100%;
     margin-left: 50px;
     margin-bottom: 0px;
 }
@@ -24,7 +25,7 @@ html {
 }
 
 .productDescription{
-    width: 50%;
+    width: 100%;
 
 }
 

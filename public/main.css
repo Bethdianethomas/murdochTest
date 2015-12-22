@@ -57,44 +57,44 @@ p {
 }
 
 
-        @media screen and (min-width: 899px) {
+    @media screen and (min-width: 899px) {
 
-            .one-day-deal h2 {
-                font-family: 'TradeGothicW01-BoldCn20_675334', 'Arial Narrow', Tahoma, Geneva, Arial, Sans-Serif;
-                margin-top: 60px;
-                font-size: 32px;
-                line-height: 42px;
-            }
-
-            .one-day-deal a:link, .one-day-deal a:visited {
-                width: 100%;
-                margin-top: 55px;
-            }
-
+        .one-day-deal h2 {
+            font-family: 'TradeGothicW01-BoldCn20_675334', 'Arial Narrow', Tahoma, Geneva, Arial, Sans-Serif;
+            margin-top: 60px;
+            font-size: 32px;
+            line-height: 42px;
         }
 
-        @media screen and (max-width: 899px) {
-
-            .one-day-deal img {
-                width: 80%;
-            }
-
-            .one-day-deal h2 {
-                font-family: 'TradeGothicW01-BoldCn20_675334', 'Arial Narrow', Tahoma, Geneva, Arial, Sans-Serif;
-                margin: 60px 30px 10px 30px;
-                font-size: 32px;
-                line-height: 42px;
-            }
-
-            .one-day-deal p {
-                margin-left: 30px;
-            }
-
-            .one-day-deal a:link, .one-day-deal a:visited {
-                width: 80%;
-                margin: 20px 30px 60px 30px;
-            }
+        .one-day-deal a:link, .one-day-deal a:visited {
+            width: 100%;
+            margin-top: 55px;
         }
+
+    }
+
+    @media screen and (max-width: 899px) {
+
+        .one-day-deal img {
+            width: 80%;
+        }
+
+        .one-day-deal h2 {
+            font-family: 'TradeGothicW01-BoldCn20_675334', 'Arial Narrow', Tahoma, Geneva, Arial, Sans-Serif;
+            margin: 60px 30px 10px 30px;
+            font-size: 32px;
+            line-height: 42px;
+        }
+
+        .one-day-deal p {
+            margin-left: 30px;
+        }
+
+        .one-day-deal a:link, .one-day-deal a:visited {
+            width: 80%;
+            margin: 20px 30px 60px 30px;
+        }
+    }
 
 
        
